@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Iniciamos</h1>
+        <h1>Iniciamos ola que hace</h1>
     </body>
 </html>
